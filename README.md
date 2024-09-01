@@ -1,0 +1,2 @@
+# UF2 project
+An attempt to write assembly code for the TinkerGen GameGo, which can only be communicated to via uf2 files. So I need to find out how they work and how to write them - and this is that attempt.
