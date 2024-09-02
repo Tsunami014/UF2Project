@@ -7,3 +7,4 @@ Language features present in typescript subset visible in uf2: https://makecode.
 
 ## Possibilities
 - We have to write something that compiles code into uf2
+- The device adds config data into the uf2 file
